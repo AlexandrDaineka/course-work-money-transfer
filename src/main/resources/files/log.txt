@@ -1,0 +1,18 @@
+Date and time: 2024-03-22T15:14:03.256625200
+Operation id: 1
+From card: 2222222222222222
+To card: 3333333333333333
+Amount: 1111100
+Currency: RUR
+Transfer fee sum: 11111
+Operation is not completed
+
+Date and time: 2024-03-22T15:14:03.313618100
+Operation id: 1
+From card: 2222222222222222
+To card: 3333333333333333
+Amount: 1111100
+Currency: RUR
+Transfer fee sum: 11111
+Operation is executed
+

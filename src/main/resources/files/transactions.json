@@ -1,0 +1,1 @@
+{"id":1,"transfer":{"cardFromNumber":"2222222222222222","cardToNumber":"3333333333333333","cardFromCVV":"231","cardFromValidTill":"02/25","amount":{"currency":"RUR","value":1111100}},"comission":11111,"verificationCode":"0000","isExecuted":true}
